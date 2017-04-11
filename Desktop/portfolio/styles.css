@@ -1,0 +1,78 @@
+body {
+  background-image: url("raindropBackground.jpeg");
+  color: white;
+  opacity: .85;
+}
+
+.icon {
+  background-color: white;
+  max-width: 220px;
+  border-radius: 50%;
+  border: solid 15px black;
+  image-orientation: none;
+
+}
+
+.home:hover {
+  background-color: gray;
+}
+
+.about:hover {
+  background-color: gray;
+}
+
+.portfolio:hover {
+  background-color: gray;
+}
+
+.resume:hover {
+  background-color: gray;
+}
+
+h1 {
+  font-family: verdana, sans-serif;
+  font-size: 36pt;
+  background-color: gray;
+  max-width: 800px;
+  border: solid 15px black;
+  box-shadow: -15px 15px white;
+  border-radius: 30px;
+
+}
+
+.indexnav {
+  font-family: verdana, sans-serif;
+  font-size: 36pt;
+  background-color: gray;
+  max-width: 1200px;
+  border: solid 15px black;
+  box-shadow: -15px 15px white;
+  border-radius: 30px;
+}
+
+h2 {
+  background-color: gray;
+  max-width: 150px;
+  border: solid 5px black;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 24pt;
+
+}
+
+.aboutp {
+  background-color: gray;
+  border: solid 5px black;
+  font-size: 16pt;
+}
+
+ul {
+  background-color: gray;
+  border: solid 5px black;
+  max-width: 300px;
+  font-size: 16pt;
+}
+
+.resumepicture {
+  opacity: 1;
+}
